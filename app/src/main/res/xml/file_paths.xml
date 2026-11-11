@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="agenda" path="agenda/" />
+    <files-path name="actas" path="actas/" />
+    <files-path name="shortcuts" path="shortcuts/" />
+</paths>
